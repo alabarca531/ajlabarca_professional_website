@@ -4,12 +4,17 @@ title = 'Anthony (AJ) La Barca'
 
 theme = 'paige'
 
+# Suppress raw HTML warning
+ignoreLogs = ['warning-goldmark-raw-html']
+
 # Table of Contents configuration
 [markup]
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
     ordered = false
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [menu]
   [[menu.main]]
@@ -20,10 +25,6 @@ theme = 'paige'
     name = "Research"
     url = "/research/"
     weight = 10
-  [[menu.main]]
-    name = "Bio"
-    url = "/bio/"
-    weight = 20
   [[menu.main]]
     name = "Publications"
     url = "/publications/"

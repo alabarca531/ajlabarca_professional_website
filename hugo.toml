@@ -1,0 +1,34 @@
+baseURL = 'https://ajlabarca.com/'
+languageCode = 'en-us'
+title = 'Anthony (AJ) La Barca'
+
+theme = 'paige'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 10
+  [[menu.main]]
+    name = "Bio"
+    url = "/bio/"
+    weight = 20
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 30
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 40
+
+[params]
+  # Paige theme parameters
+  [params.paige]
+    # Disable automatic page listings
+    hide_pages = true
+    hide_collections = true

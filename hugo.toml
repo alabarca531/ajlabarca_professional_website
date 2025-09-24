@@ -4,6 +4,13 @@ title = 'Anthony (AJ) La Barca'
 
 theme = 'paige'
 
+# Table of Contents configuration
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
 [menu]
   [[menu.main]]
     name = "Home"

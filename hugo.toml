@@ -32,3 +32,8 @@ theme = 'paige'
     # Disable automatic page listings
     hide_pages = true
     hide_collections = true
+
+# Image processing cache
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

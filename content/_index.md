@@ -1,60 +1,28 @@
 ---
 title: "Anthony (AJ) La Barca"
-description: "Academic Researcher and Professional"
+description: "PhD Student"
+banner_image: "/files/banner.jpeg"
 ---
 
 ## About Me
 
-I am Anthony (AJ) La Barca, an academic researcher and professional with a passion for advancing knowledge through rigorous research and scholarship. My work focuses on [your research area] and I am committed to contributing meaningfully to my field through both research and professional practice.
+I am Anthony (AJ) La Barca, a PhD student in Aerospace Engineering at the University of Colorado, Boulder. My research focuses on autonomy frameworks for aerospace applications, with particular interest in state estimation and Bayesian methods.
 
-## Educational Background
+## Overview
 
-### Ph.D. in [Your Field]
+- PhD student at the COHRINT Lab, University of Colorado, Boulder
+- Researching advanced methods for autonomous systems and fault detection
+- B.S. in Physics & Astronomy from the University of Rochester
 
-**[University Name]**, [Year]
+## Contact Information
 
-- Dissertation: "[Your Dissertation Title]"
-- Advisor: [Advisor Name]
-- Key Focus: [Brief description of your dissertation research]
+- **Email**: [aj.labarca@example.com](mailto:aj.labarca@example.com)
+- **ORCID**: [0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)
 
-### M.A./M.S. in [Your Field]
+## Relevant Links
 
-**[University Name]**, [Year]
+- **Professional Website**: [ajlabarca.com](https://ajlabarca.com)
+- **Personal Website**: [personal.ajlabarca.com](https://personal.ajlabarca.com)
+- **COHRINT Website**: [COHRINT](https://cohrint.info/)
 
-- Thesis: "[Your Thesis Title]"
-- Relevant Coursework: [Key courses]
-
-### B.A./B.S. in [Your Field]
-
-**[University Name]**, [Year]
-
-- Magna Cum Laude / [Honors]
-- Relevant Activities: [Clubs, research, etc.]
-
-## Professional Experience
-
-### Current Position
-
-**[Job Title]** - [Institution/Organization] ([Year] - Present)
-
-- Brief description of your current role and responsibilities
-- Key achievements or projects
-
-### Previous Position(s)
-
-**[Job Title]** - [Institution/Organization] ([Start Year] - [End Year])
-
-- Description of role and key contributions
-- Notable accomplishments
-
-## Research Interests
-
-- [Research area 1]
-- [Research area 2]  
-- [Research area 3]
-
-## Skills and Expertise
-
-- **Technical Skills**: [List relevant technical skills]
-- **Languages**: [Languages spoken/written]
-- **Software**: [Relevant software proficiencies]
+For detailed information, visit my [Curriculum Vitae](./cv) page.

@@ -1,18 +1,21 @@
 {{ define "main" }}
+{{ partial "banner.html" . }}
+
+<!-- Main Content Section -->
 <div class="container-fluid">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-10 col-md-11 col-xl-9 col-xxl-8">
             <article>
                 <div class="row">
-                    <!-- Bio content on the left -->
-                    <div class="col-md-8">
+                    <!-- Headshot image - shows first on mobile, second on desktop -->
+                    <div class="col-md-4 d-flex align-items-start justify-content-center order-first order-md-last mb-4 mb-md-0">
+                        <img src="/files/Headshot.jpeg" alt="Anthony (AJ) La Barca" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
+                    </div>
+                    <!-- Bio content - shows second on mobile, first on desktop -->
+                    <div class="col-md-8 order-last order-md-first">
                         <div class="paige-content">
                             {{ .Content }}
                         </div>
-                    </div>
-                    <!-- Headshot image on the right -->
-                    <div class="col-md-4 d-flex align-items-start justify-content-center">
-                        <img src="/files/Headshot.jpeg" alt="Anthony (AJ) La Barca" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
                     </div>
                 </div>
             </article>

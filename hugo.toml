@@ -33,6 +33,10 @@ ignoreLogs = ['warning-goldmark-raw-html']
     name = "CV"
     url = "/cv/"
     weight = 40
+    [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 50
 
 [params]
   # Paige theme parameters

@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description: "My scholarly publications and contributions"
+banner_image: "/files/banner_publications.jpeg"
 ---
 
 ## Publications

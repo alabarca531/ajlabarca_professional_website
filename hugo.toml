@@ -1,3 +1,4 @@
+# Hugo configuration file for Anthony (AJ) La Barca's professional website
 baseURL = 'https://ajlabarca.com/'
 languageCode = 'en-us'
 title = 'Anthony (AJ) La Barca'
